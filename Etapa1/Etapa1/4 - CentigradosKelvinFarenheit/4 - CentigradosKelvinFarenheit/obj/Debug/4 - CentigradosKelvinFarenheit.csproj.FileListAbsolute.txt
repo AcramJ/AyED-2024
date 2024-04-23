@@ -1,0 +1,6 @@
+C:\Users\alumno.ET37\Desktop\Joha\Etapa1\4 - CentigradosKelvinFarenheit\4 - CentigradosKelvinFarenheit\bin\Debug\4 - CentigradosKelvinFarenheit.exe.config
+C:\Users\alumno.ET37\Desktop\Joha\Etapa1\4 - CentigradosKelvinFarenheit\4 - CentigradosKelvinFarenheit\bin\Debug\4 - CentigradosKelvinFarenheit.exe
+C:\Users\alumno.ET37\Desktop\Joha\Etapa1\4 - CentigradosKelvinFarenheit\4 - CentigradosKelvinFarenheit\bin\Debug\4 - CentigradosKelvinFarenheit.pdb
+C:\Users\alumno.ET37\Desktop\Joha\Etapa1\4 - CentigradosKelvinFarenheit\4 - CentigradosKelvinFarenheit\obj\Debug\4 - CentigradosKelvinFarenheit.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Desktop\Joha\Etapa1\4 - CentigradosKelvinFarenheit\4 - CentigradosKelvinFarenheit\obj\Debug\4 - CentigradosKelvinFarenheit.exe
+C:\Users\alumno.ET37\Desktop\Joha\Etapa1\4 - CentigradosKelvinFarenheit\4 - CentigradosKelvinFarenheit\obj\Debug\4 - CentigradosKelvinFarenheit.pdb
