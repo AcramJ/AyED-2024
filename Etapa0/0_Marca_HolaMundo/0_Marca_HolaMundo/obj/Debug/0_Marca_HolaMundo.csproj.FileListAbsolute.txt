@@ -1,0 +1,6 @@
+C:\Users\alumno.ET37\Desktop\Marca2024\Etapa0\0_Marca_HolaMundo\0_Marca_HolaMundo\bin\Debug\0_Marca_HolaMundo.exe.config
+C:\Users\alumno.ET37\Desktop\Marca2024\Etapa0\0_Marca_HolaMundo\0_Marca_HolaMundo\bin\Debug\0_Marca_HolaMundo.exe
+C:\Users\alumno.ET37\Desktop\Marca2024\Etapa0\0_Marca_HolaMundo\0_Marca_HolaMundo\bin\Debug\0_Marca_HolaMundo.pdb
+C:\Users\alumno.ET37\Desktop\Marca2024\Etapa0\0_Marca_HolaMundo\0_Marca_HolaMundo\obj\Debug\0_Marca_HolaMundo.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Desktop\Marca2024\Etapa0\0_Marca_HolaMundo\0_Marca_HolaMundo\obj\Debug\0_Marca_HolaMundo.exe
+C:\Users\alumno.ET37\Desktop\Marca2024\Etapa0\0_Marca_HolaMundo\0_Marca_HolaMundo\obj\Debug\0_Marca_HolaMundo.pdb

@@ -1,0 +1,5 @@
+C:\Users\alumno.ET37\Desktop\Marca2024\Etapa0\1_Marca_Holanombre\1_Marca_Holanombre\bin\Debug\1_Marca_Holanombre.exe.config
+C:\Users\alumno.ET37\Desktop\Marca2024\Etapa0\1_Marca_Holanombre\1_Marca_Holanombre\bin\Debug\1_Marca_Holanombre.exe
+C:\Users\alumno.ET37\Desktop\Marca2024\Etapa0\1_Marca_Holanombre\1_Marca_Holanombre\bin\Debug\1_Marca_Holanombre.pdb
+C:\Users\alumno.ET37\Desktop\Marca2024\Etapa0\1_Marca_Holanombre\1_Marca_Holanombre\obj\Debug\1_Marca_Holanombre.exe
+C:\Users\alumno.ET37\Desktop\Marca2024\Etapa0\1_Marca_Holanombre\1_Marca_Holanombre\obj\Debug\1_Marca_Holanombre.pdb
