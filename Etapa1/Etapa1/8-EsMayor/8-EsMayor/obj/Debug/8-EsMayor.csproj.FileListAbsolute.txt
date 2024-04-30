@@ -1,0 +1,6 @@
+C:\Users\alumno.ET37\Downloads\Joha\Etapa1\8-EsMayor\8-EsMayor\bin\Debug\8-EsMayor.exe.config
+C:\Users\alumno.ET37\Downloads\Joha\Etapa1\8-EsMayor\8-EsMayor\obj\Debug\8-EsMayor.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Downloads\Joha\Etapa1\8-EsMayor\8-EsMayor\bin\Debug\8-EsMayor.exe
+C:\Users\alumno.ET37\Downloads\Joha\Etapa1\8-EsMayor\8-EsMayor\bin\Debug\8-EsMayor.pdb
+C:\Users\alumno.ET37\Downloads\Joha\Etapa1\8-EsMayor\8-EsMayor\obj\Debug\8-EsMayor.exe
+C:\Users\alumno.ET37\Downloads\Joha\Etapa1\8-EsMayor\8-EsMayor\obj\Debug\8-EsMayor.pdb

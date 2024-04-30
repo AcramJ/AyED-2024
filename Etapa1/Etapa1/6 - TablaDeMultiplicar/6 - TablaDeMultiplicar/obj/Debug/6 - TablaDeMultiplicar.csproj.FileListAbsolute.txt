@@ -1,0 +1,5 @@
+C:\Users\alumno.ET37\Desktop\Joha\Etapa1\6 - TablaDeMultiplicar\6 - TablaDeMultiplicar\bin\Debug\6 - TablaDeMultiplicar.exe.config
+C:\Users\alumno.ET37\Desktop\Joha\Etapa1\6 - TablaDeMultiplicar\6 - TablaDeMultiplicar\bin\Debug\6 - TablaDeMultiplicar.exe
+C:\Users\alumno.ET37\Desktop\Joha\Etapa1\6 - TablaDeMultiplicar\6 - TablaDeMultiplicar\bin\Debug\6 - TablaDeMultiplicar.pdb
+C:\Users\alumno.ET37\Desktop\Joha\Etapa1\6 - TablaDeMultiplicar\6 - TablaDeMultiplicar\obj\Debug\6 - TablaDeMultiplicar.exe
+C:\Users\alumno.ET37\Desktop\Joha\Etapa1\6 - TablaDeMultiplicar\6 - TablaDeMultiplicar\obj\Debug\6 - TablaDeMultiplicar.pdb
