@@ -1,0 +1,6 @@
+C:\Users\alumno.ET37\Downloads\Joha\Etapa1\7-ALREVES\7-ALREVES\bin\Debug\7-ALREVES.exe.config
+C:\Users\alumno.ET37\Downloads\Joha\Etapa1\7-ALREVES\7-ALREVES\bin\Debug\7-ALREVES.exe
+C:\Users\alumno.ET37\Downloads\Joha\Etapa1\7-ALREVES\7-ALREVES\bin\Debug\7-ALREVES.pdb
+C:\Users\alumno.ET37\Downloads\Joha\Etapa1\7-ALREVES\7-ALREVES\obj\Debug\7-ALREVES.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Downloads\Joha\Etapa1\7-ALREVES\7-ALREVES\obj\Debug\7-ALREVES.exe
+C:\Users\alumno.ET37\Downloads\Joha\Etapa1\7-ALREVES\7-ALREVES\obj\Debug\7-ALREVES.pdb

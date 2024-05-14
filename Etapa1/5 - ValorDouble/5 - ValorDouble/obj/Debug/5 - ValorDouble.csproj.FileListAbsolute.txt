@@ -1,0 +1,6 @@
+C:\Users\alumno.ET37\Desktop\Joha\Etapa1\5 - ValorDouble\5 - ValorDouble\bin\Debug\5 - ValorDouble.exe.config
+C:\Users\alumno.ET37\Desktop\Joha\Etapa1\5 - ValorDouble\5 - ValorDouble\bin\Debug\5 - ValorDouble.exe
+C:\Users\alumno.ET37\Desktop\Joha\Etapa1\5 - ValorDouble\5 - ValorDouble\bin\Debug\5 - ValorDouble.pdb
+C:\Users\alumno.ET37\Desktop\Joha\Etapa1\5 - ValorDouble\5 - ValorDouble\obj\Debug\5 - ValorDouble.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Desktop\Joha\Etapa1\5 - ValorDouble\5 - ValorDouble\obj\Debug\5 - ValorDouble.exe
+C:\Users\alumno.ET37\Desktop\Joha\Etapa1\5 - ValorDouble\5 - ValorDouble\obj\Debug\5 - ValorDouble.pdb
