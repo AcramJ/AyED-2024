@@ -1,0 +1,6 @@
+C:\Users\alumno.ET37\Desktop\Joha\Etapa1\10 - EsDivisor\10 - EsDivisor\bin\Debug\10 - EsDivisor.exe.config
+C:\Users\alumno.ET37\Desktop\Joha\Etapa1\10 - EsDivisor\10 - EsDivisor\bin\Debug\10 - EsDivisor.exe
+C:\Users\alumno.ET37\Desktop\Joha\Etapa1\10 - EsDivisor\10 - EsDivisor\bin\Debug\10 - EsDivisor.pdb
+C:\Users\alumno.ET37\Desktop\Joha\Etapa1\10 - EsDivisor\10 - EsDivisor\obj\Debug\10 - EsDivisor.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Desktop\Joha\Etapa1\10 - EsDivisor\10 - EsDivisor\obj\Debug\10 - EsDivisor.exe
+C:\Users\alumno.ET37\Desktop\Joha\Etapa1\10 - EsDivisor\10 - EsDivisor\obj\Debug\10 - EsDivisor.pdb
