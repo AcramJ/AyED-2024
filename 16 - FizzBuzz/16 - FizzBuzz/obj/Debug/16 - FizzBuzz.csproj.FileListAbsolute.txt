@@ -1,6 +1,0 @@
-C:\Users\alumno.ET37\Desktop\Joha\Etapa1\16 - FizzBuzz\16 - FizzBuzz\bin\Debug\16 - FizzBuzz.exe.config
-C:\Users\alumno.ET37\Desktop\Joha\Etapa1\16 - FizzBuzz\16 - FizzBuzz\bin\Debug\16 - FizzBuzz.exe
-C:\Users\alumno.ET37\Desktop\Joha\Etapa1\16 - FizzBuzz\16 - FizzBuzz\bin\Debug\16 - FizzBuzz.pdb
-C:\Users\alumno.ET37\Desktop\Joha\Etapa1\16 - FizzBuzz\16 - FizzBuzz\obj\Debug\16 - FizzBuzz.csprojResolveAssemblyReference.cache
-C:\Users\alumno.ET37\Desktop\Joha\Etapa1\16 - FizzBuzz\16 - FizzBuzz\obj\Debug\16 - FizzBuzz.exe
-C:\Users\alumno.ET37\Desktop\Joha\Etapa1\16 - FizzBuzz\16 - FizzBuzz\obj\Debug\16 - FizzBuzz.pdb
