@@ -1,0 +1,14 @@
+C:\Users\Johanna\Desktop\tps\9_Marca_MiprimerMatriz\9_Marca_MiprimerMatriz\9_Marca_MiprimerMatriz\bin\Debug\net8.0\9_Marca_MiprimerMatriz.exe
+C:\Users\Johanna\Desktop\tps\9_Marca_MiprimerMatriz\9_Marca_MiprimerMatriz\9_Marca_MiprimerMatriz\bin\Debug\net8.0\9_Marca_MiprimerMatriz.deps.json
+C:\Users\Johanna\Desktop\tps\9_Marca_MiprimerMatriz\9_Marca_MiprimerMatriz\9_Marca_MiprimerMatriz\bin\Debug\net8.0\9_Marca_MiprimerMatriz.runtimeconfig.json
+C:\Users\Johanna\Desktop\tps\9_Marca_MiprimerMatriz\9_Marca_MiprimerMatriz\9_Marca_MiprimerMatriz\bin\Debug\net8.0\9_Marca_MiprimerMatriz.dll
+C:\Users\Johanna\Desktop\tps\9_Marca_MiprimerMatriz\9_Marca_MiprimerMatriz\9_Marca_MiprimerMatriz\bin\Debug\net8.0\9_Marca_MiprimerMatriz.pdb
+C:\Users\Johanna\Desktop\tps\9_Marca_MiprimerMatriz\9_Marca_MiprimerMatriz\9_Marca_MiprimerMatriz\obj\Debug\net8.0\9_Marca_MiprimerMatriz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Johanna\Desktop\tps\9_Marca_MiprimerMatriz\9_Marca_MiprimerMatriz\9_Marca_MiprimerMatriz\obj\Debug\net8.0\9_Marca_MiprimerMatriz.AssemblyInfoInputs.cache
+C:\Users\Johanna\Desktop\tps\9_Marca_MiprimerMatriz\9_Marca_MiprimerMatriz\9_Marca_MiprimerMatriz\obj\Debug\net8.0\9_Marca_MiprimerMatriz.AssemblyInfo.cs
+C:\Users\Johanna\Desktop\tps\9_Marca_MiprimerMatriz\9_Marca_MiprimerMatriz\9_Marca_MiprimerMatriz\obj\Debug\net8.0\9_Marca_MiprimerMatriz.csproj.CoreCompileInputs.cache
+C:\Users\Johanna\Desktop\tps\9_Marca_MiprimerMatriz\9_Marca_MiprimerMatriz\9_Marca_MiprimerMatriz\obj\Debug\net8.0\9_Marca_MiprimerMatriz.dll
+C:\Users\Johanna\Desktop\tps\9_Marca_MiprimerMatriz\9_Marca_MiprimerMatriz\9_Marca_MiprimerMatriz\obj\Debug\net8.0\refint\9_Marca_MiprimerMatriz.dll
+C:\Users\Johanna\Desktop\tps\9_Marca_MiprimerMatriz\9_Marca_MiprimerMatriz\9_Marca_MiprimerMatriz\obj\Debug\net8.0\9_Marca_MiprimerMatriz.pdb
+C:\Users\Johanna\Desktop\tps\9_Marca_MiprimerMatriz\9_Marca_MiprimerMatriz\9_Marca_MiprimerMatriz\obj\Debug\net8.0\9_Marca_MiprimerMatriz.genruntimeconfig.cache
+C:\Users\Johanna\Desktop\tps\9_Marca_MiprimerMatriz\9_Marca_MiprimerMatriz\9_Marca_MiprimerMatriz\obj\Debug\net8.0\ref\9_Marca_MiprimerMatriz.dll

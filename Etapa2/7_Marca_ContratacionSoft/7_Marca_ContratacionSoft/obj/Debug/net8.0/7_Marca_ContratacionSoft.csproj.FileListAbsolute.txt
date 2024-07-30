@@ -1,0 +1,14 @@
+C:\Users\Johanna\Desktop\tps\7_Marca_ContratacionSoft\7_Marca_ContratacionSoft\bin\Debug\net8.0\7_Marca_ContratacionSoft.exe
+C:\Users\Johanna\Desktop\tps\7_Marca_ContratacionSoft\7_Marca_ContratacionSoft\bin\Debug\net8.0\7_Marca_ContratacionSoft.deps.json
+C:\Users\Johanna\Desktop\tps\7_Marca_ContratacionSoft\7_Marca_ContratacionSoft\bin\Debug\net8.0\7_Marca_ContratacionSoft.runtimeconfig.json
+C:\Users\Johanna\Desktop\tps\7_Marca_ContratacionSoft\7_Marca_ContratacionSoft\bin\Debug\net8.0\7_Marca_ContratacionSoft.dll
+C:\Users\Johanna\Desktop\tps\7_Marca_ContratacionSoft\7_Marca_ContratacionSoft\bin\Debug\net8.0\7_Marca_ContratacionSoft.pdb
+C:\Users\Johanna\Desktop\tps\7_Marca_ContratacionSoft\7_Marca_ContratacionSoft\obj\Debug\net8.0\7_Marca_ContratacionSoft.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Johanna\Desktop\tps\7_Marca_ContratacionSoft\7_Marca_ContratacionSoft\obj\Debug\net8.0\7_Marca_ContratacionSoft.AssemblyInfoInputs.cache
+C:\Users\Johanna\Desktop\tps\7_Marca_ContratacionSoft\7_Marca_ContratacionSoft\obj\Debug\net8.0\7_Marca_ContratacionSoft.AssemblyInfo.cs
+C:\Users\Johanna\Desktop\tps\7_Marca_ContratacionSoft\7_Marca_ContratacionSoft\obj\Debug\net8.0\7_Marca_ContratacionSoft.csproj.CoreCompileInputs.cache
+C:\Users\Johanna\Desktop\tps\7_Marca_ContratacionSoft\7_Marca_ContratacionSoft\obj\Debug\net8.0\7_Marca_ContratacionSoft.dll
+C:\Users\Johanna\Desktop\tps\7_Marca_ContratacionSoft\7_Marca_ContratacionSoft\obj\Debug\net8.0\refint\7_Marca_ContratacionSoft.dll
+C:\Users\Johanna\Desktop\tps\7_Marca_ContratacionSoft\7_Marca_ContratacionSoft\obj\Debug\net8.0\7_Marca_ContratacionSoft.pdb
+C:\Users\Johanna\Desktop\tps\7_Marca_ContratacionSoft\7_Marca_ContratacionSoft\obj\Debug\net8.0\7_Marca_ContratacionSoft.genruntimeconfig.cache
+C:\Users\Johanna\Desktop\tps\7_Marca_ContratacionSoft\7_Marca_ContratacionSoft\obj\Debug\net8.0\ref\7_Marca_ContratacionSoft.dll
