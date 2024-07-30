@@ -1,0 +1,13 @@
+C:\Users\alumno.ET37\Desktop\Joha\Etapa2\1 - LaFiestaDeStitch\LaFiestaDeStitch\LaFiestaDeStitch\bin\Debug\LaFiestaDeStitch.exe.config
+C:\Users\alumno.ET37\Desktop\Joha\Etapa2\1 - LaFiestaDeStitch\LaFiestaDeStitch\LaFiestaDeStitch\bin\Debug\LaFiestaDeStitch.exe
+C:\Users\alumno.ET37\Desktop\Joha\Etapa2\1 - LaFiestaDeStitch\LaFiestaDeStitch\LaFiestaDeStitch\bin\Debug\LaFiestaDeStitch.pdb
+C:\Users\alumno.ET37\Desktop\Joha\Etapa2\1 - LaFiestaDeStitch\LaFiestaDeStitch\LaFiestaDeStitch\obj\Debug\LaFiestaDeStitch.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Desktop\Joha\Etapa2\1 - LaFiestaDeStitch\LaFiestaDeStitch\LaFiestaDeStitch\obj\Debug\LaFiestaDeStitch.exe
+C:\Users\alumno.ET37\Desktop\Joha\Etapa2\1 - LaFiestaDeStitch\LaFiestaDeStitch\LaFiestaDeStitch\obj\Debug\LaFiestaDeStitch.pdb
+C:\Users\Johanna\Desktop\Joha\Etapa2\1_Marca_ LaFiestaDeStitch\LaFiestaDeStitch\LaFiestaDeStitch\bin\Debug\LaFiestaDeStitch.exe.config
+C:\Users\Johanna\Desktop\Joha\Etapa2\1_Marca_ LaFiestaDeStitch\LaFiestaDeStitch\LaFiestaDeStitch\bin\Debug\LaFiestaDeStitch.exe
+C:\Users\Johanna\Desktop\Joha\Etapa2\1_Marca_ LaFiestaDeStitch\LaFiestaDeStitch\LaFiestaDeStitch\bin\Debug\LaFiestaDeStitch.pdb
+C:\Users\Johanna\Desktop\Joha\Etapa2\1_Marca_ LaFiestaDeStitch\LaFiestaDeStitch\LaFiestaDeStitch\obj\Debug\LaFiestaDeStitch.csproj.AssemblyReference.cache
+C:\Users\Johanna\Desktop\Joha\Etapa2\1_Marca_ LaFiestaDeStitch\LaFiestaDeStitch\LaFiestaDeStitch\obj\Debug\LaFiestaDeStitch.csproj.CoreCompileInputs.cache
+C:\Users\Johanna\Desktop\Joha\Etapa2\1_Marca_ LaFiestaDeStitch\LaFiestaDeStitch\LaFiestaDeStitch\obj\Debug\LaFiestaDeStitch.exe
+C:\Users\Johanna\Desktop\Joha\Etapa2\1_Marca_ LaFiestaDeStitch\LaFiestaDeStitch\LaFiestaDeStitch\obj\Debug\LaFiestaDeStitch.pdb
