@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "RECpAvOUp3s=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Johanna\\Desktop\\tps\\6_Marca_ZEGARPG\\6_Marca_ZEGARPG\\6_Marca_ZEGARPG.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Johanna\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.7\\microsoft.dotnet.ilcompiler.8.0.7.nupkg.sha512",
+    "C:\\Users\\Johanna\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.7\\microsoft.net.illink.tasks.8.0.7.nupkg.sha512",
+    "C:\\Users\\Johanna\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.7\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+C:\Users\Johanna\Desktop\tps\6_Marca_ZEGARPG\6_Marca_ZEGARPG\bin\Debug\net8.0\6_Marca_ZEGARPG.exe
+C:\Users\Johanna\Desktop\tps\6_Marca_ZEGARPG\6_Marca_ZEGARPG\bin\Debug\net8.0\6_Marca_ZEGARPG.deps.json
+C:\Users\Johanna\Desktop\tps\6_Marca_ZEGARPG\6_Marca_ZEGARPG\bin\Debug\net8.0\6_Marca_ZEGARPG.runtimeconfig.json
+C:\Users\Johanna\Desktop\tps\6_Marca_ZEGARPG\6_Marca_ZEGARPG\bin\Debug\net8.0\6_Marca_ZEGARPG.dll
+C:\Users\Johanna\Desktop\tps\6_Marca_ZEGARPG\6_Marca_ZEGARPG\bin\Debug\net8.0\6_Marca_ZEGARPG.pdb
+C:\Users\Johanna\Desktop\tps\6_Marca_ZEGARPG\6_Marca_ZEGARPG\obj\Debug\net8.0\6_Marca_ZEGARPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Johanna\Desktop\tps\6_Marca_ZEGARPG\6_Marca_ZEGARPG\obj\Debug\net8.0\6_Marca_ZEGARPG.AssemblyInfoInputs.cache
+C:\Users\Johanna\Desktop\tps\6_Marca_ZEGARPG\6_Marca_ZEGARPG\obj\Debug\net8.0\6_Marca_ZEGARPG.AssemblyInfo.cs
+C:\Users\Johanna\Desktop\tps\6_Marca_ZEGARPG\6_Marca_ZEGARPG\obj\Debug\net8.0\6_Marca_ZEGARPG.csproj.CoreCompileInputs.cache
+C:\Users\Johanna\Desktop\tps\6_Marca_ZEGARPG\6_Marca_ZEGARPG\obj\Debug\net8.0\6_Marca_ZEGARPG.dll
+C:\Users\Johanna\Desktop\tps\6_Marca_ZEGARPG\6_Marca_ZEGARPG\obj\Debug\net8.0\refint\6_Marca_ZEGARPG.dll
+C:\Users\Johanna\Desktop\tps\6_Marca_ZEGARPG\6_Marca_ZEGARPG\obj\Debug\net8.0\6_Marca_ZEGARPG.pdb
+C:\Users\Johanna\Desktop\tps\6_Marca_ZEGARPG\6_Marca_ZEGARPG\obj\Debug\net8.0\6_Marca_ZEGARPG.genruntimeconfig.cache
+C:\Users\Johanna\Desktop\tps\6_Marca_ZEGARPG\6_Marca_ZEGARPG\obj\Debug\net8.0\ref\6_Marca_ZEGARPG.dll

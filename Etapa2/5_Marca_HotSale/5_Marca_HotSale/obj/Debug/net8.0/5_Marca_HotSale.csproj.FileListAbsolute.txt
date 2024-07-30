@@ -1,0 +1,14 @@
+C:\Users\Johanna\Desktop\tps\4_Marca_PixelDreams\5_Marca_HotSale\5_Marca_HotSale\bin\Debug\net8.0\5_Marca_HotSale.exe
+C:\Users\Johanna\Desktop\tps\4_Marca_PixelDreams\5_Marca_HotSale\5_Marca_HotSale\bin\Debug\net8.0\5_Marca_HotSale.deps.json
+C:\Users\Johanna\Desktop\tps\4_Marca_PixelDreams\5_Marca_HotSale\5_Marca_HotSale\bin\Debug\net8.0\5_Marca_HotSale.runtimeconfig.json
+C:\Users\Johanna\Desktop\tps\4_Marca_PixelDreams\5_Marca_HotSale\5_Marca_HotSale\bin\Debug\net8.0\5_Marca_HotSale.dll
+C:\Users\Johanna\Desktop\tps\4_Marca_PixelDreams\5_Marca_HotSale\5_Marca_HotSale\bin\Debug\net8.0\5_Marca_HotSale.pdb
+C:\Users\Johanna\Desktop\tps\4_Marca_PixelDreams\5_Marca_HotSale\5_Marca_HotSale\obj\Debug\net8.0\5_Marca_HotSale.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Johanna\Desktop\tps\4_Marca_PixelDreams\5_Marca_HotSale\5_Marca_HotSale\obj\Debug\net8.0\5_Marca_HotSale.AssemblyInfoInputs.cache
+C:\Users\Johanna\Desktop\tps\4_Marca_PixelDreams\5_Marca_HotSale\5_Marca_HotSale\obj\Debug\net8.0\5_Marca_HotSale.AssemblyInfo.cs
+C:\Users\Johanna\Desktop\tps\4_Marca_PixelDreams\5_Marca_HotSale\5_Marca_HotSale\obj\Debug\net8.0\5_Marca_HotSale.csproj.CoreCompileInputs.cache
+C:\Users\Johanna\Desktop\tps\4_Marca_PixelDreams\5_Marca_HotSale\5_Marca_HotSale\obj\Debug\net8.0\5_Marca_HotSale.dll
+C:\Users\Johanna\Desktop\tps\4_Marca_PixelDreams\5_Marca_HotSale\5_Marca_HotSale\obj\Debug\net8.0\refint\5_Marca_HotSale.dll
+C:\Users\Johanna\Desktop\tps\4_Marca_PixelDreams\5_Marca_HotSale\5_Marca_HotSale\obj\Debug\net8.0\5_Marca_HotSale.pdb
+C:\Users\Johanna\Desktop\tps\4_Marca_PixelDreams\5_Marca_HotSale\5_Marca_HotSale\obj\Debug\net8.0\5_Marca_HotSale.genruntimeconfig.cache
+C:\Users\Johanna\Desktop\tps\4_Marca_PixelDreams\5_Marca_HotSale\5_Marca_HotSale\obj\Debug\net8.0\ref\5_Marca_HotSale.dll
