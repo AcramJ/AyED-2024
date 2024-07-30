@@ -1,0 +1,14 @@
+C:\Users\Johanna\Desktop\tps\0 - La carrera de Homero\0_Marca_La carrera de Homero\0_Marca_La carrera de Homero\bin\Debug\net8.0\0_Marca_La carrera de Homero.exe
+C:\Users\Johanna\Desktop\tps\0 - La carrera de Homero\0_Marca_La carrera de Homero\0_Marca_La carrera de Homero\bin\Debug\net8.0\0_Marca_La carrera de Homero.deps.json
+C:\Users\Johanna\Desktop\tps\0 - La carrera de Homero\0_Marca_La carrera de Homero\0_Marca_La carrera de Homero\bin\Debug\net8.0\0_Marca_La carrera de Homero.runtimeconfig.json
+C:\Users\Johanna\Desktop\tps\0 - La carrera de Homero\0_Marca_La carrera de Homero\0_Marca_La carrera de Homero\bin\Debug\net8.0\0_Marca_La carrera de Homero.dll
+C:\Users\Johanna\Desktop\tps\0 - La carrera de Homero\0_Marca_La carrera de Homero\0_Marca_La carrera de Homero\bin\Debug\net8.0\0_Marca_La carrera de Homero.pdb
+C:\Users\Johanna\Desktop\tps\0 - La carrera de Homero\0_Marca_La carrera de Homero\0_Marca_La carrera de Homero\obj\Debug\net8.0\0_Marca_La carrera de Homero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Johanna\Desktop\tps\0 - La carrera de Homero\0_Marca_La carrera de Homero\0_Marca_La carrera de Homero\obj\Debug\net8.0\0_Marca_La carrera de Homero.AssemblyInfoInputs.cache
+C:\Users\Johanna\Desktop\tps\0 - La carrera de Homero\0_Marca_La carrera de Homero\0_Marca_La carrera de Homero\obj\Debug\net8.0\0_Marca_La carrera de Homero.AssemblyInfo.cs
+C:\Users\Johanna\Desktop\tps\0 - La carrera de Homero\0_Marca_La carrera de Homero\0_Marca_La carrera de Homero\obj\Debug\net8.0\0_Marca_La carrera de Homero.csproj.CoreCompileInputs.cache
+C:\Users\Johanna\Desktop\tps\0 - La carrera de Homero\0_Marca_La carrera de Homero\0_Marca_La carrera de Homero\obj\Debug\net8.0\0_Marca_La carrera de Homero.dll
+C:\Users\Johanna\Desktop\tps\0 - La carrera de Homero\0_Marca_La carrera de Homero\0_Marca_La carrera de Homero\obj\Debug\net8.0\refint\0_Marca_La carrera de Homero.dll
+C:\Users\Johanna\Desktop\tps\0 - La carrera de Homero\0_Marca_La carrera de Homero\0_Marca_La carrera de Homero\obj\Debug\net8.0\0_Marca_La carrera de Homero.pdb
+C:\Users\Johanna\Desktop\tps\0 - La carrera de Homero\0_Marca_La carrera de Homero\0_Marca_La carrera de Homero\obj\Debug\net8.0\0_Marca_La carrera de Homero.genruntimeconfig.cache
+C:\Users\Johanna\Desktop\tps\0 - La carrera de Homero\0_Marca_La carrera de Homero\0_Marca_La carrera de Homero\obj\Debug\net8.0\ref\0_Marca_La carrera de Homero.dll

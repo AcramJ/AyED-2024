@@ -1,0 +1,14 @@
+C:\Users\Johanna\Desktop\tps\2_Marca_CarreraVeloz\2_Marca_CarreraVeloz\2_Marca_CarreraVeloz\bin\Debug\net8.0\2_Marca_CarreraVeloz.exe
+C:\Users\Johanna\Desktop\tps\2_Marca_CarreraVeloz\2_Marca_CarreraVeloz\2_Marca_CarreraVeloz\bin\Debug\net8.0\2_Marca_CarreraVeloz.deps.json
+C:\Users\Johanna\Desktop\tps\2_Marca_CarreraVeloz\2_Marca_CarreraVeloz\2_Marca_CarreraVeloz\bin\Debug\net8.0\2_Marca_CarreraVeloz.runtimeconfig.json
+C:\Users\Johanna\Desktop\tps\2_Marca_CarreraVeloz\2_Marca_CarreraVeloz\2_Marca_CarreraVeloz\bin\Debug\net8.0\2_Marca_CarreraVeloz.dll
+C:\Users\Johanna\Desktop\tps\2_Marca_CarreraVeloz\2_Marca_CarreraVeloz\2_Marca_CarreraVeloz\bin\Debug\net8.0\2_Marca_CarreraVeloz.pdb
+C:\Users\Johanna\Desktop\tps\2_Marca_CarreraVeloz\2_Marca_CarreraVeloz\2_Marca_CarreraVeloz\obj\Debug\net8.0\2_Marca_CarreraVeloz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Johanna\Desktop\tps\2_Marca_CarreraVeloz\2_Marca_CarreraVeloz\2_Marca_CarreraVeloz\obj\Debug\net8.0\2_Marca_CarreraVeloz.AssemblyInfoInputs.cache
+C:\Users\Johanna\Desktop\tps\2_Marca_CarreraVeloz\2_Marca_CarreraVeloz\2_Marca_CarreraVeloz\obj\Debug\net8.0\2_Marca_CarreraVeloz.AssemblyInfo.cs
+C:\Users\Johanna\Desktop\tps\2_Marca_CarreraVeloz\2_Marca_CarreraVeloz\2_Marca_CarreraVeloz\obj\Debug\net8.0\2_Marca_CarreraVeloz.csproj.CoreCompileInputs.cache
+C:\Users\Johanna\Desktop\tps\2_Marca_CarreraVeloz\2_Marca_CarreraVeloz\2_Marca_CarreraVeloz\obj\Debug\net8.0\2_Marca_CarreraVeloz.dll
+C:\Users\Johanna\Desktop\tps\2_Marca_CarreraVeloz\2_Marca_CarreraVeloz\2_Marca_CarreraVeloz\obj\Debug\net8.0\refint\2_Marca_CarreraVeloz.dll
+C:\Users\Johanna\Desktop\tps\2_Marca_CarreraVeloz\2_Marca_CarreraVeloz\2_Marca_CarreraVeloz\obj\Debug\net8.0\2_Marca_CarreraVeloz.pdb
+C:\Users\Johanna\Desktop\tps\2_Marca_CarreraVeloz\2_Marca_CarreraVeloz\2_Marca_CarreraVeloz\obj\Debug\net8.0\2_Marca_CarreraVeloz.genruntimeconfig.cache
+C:\Users\Johanna\Desktop\tps\2_Marca_CarreraVeloz\2_Marca_CarreraVeloz\2_Marca_CarreraVeloz\obj\Debug\net8.0\ref\2_Marca_CarreraVeloz.dll

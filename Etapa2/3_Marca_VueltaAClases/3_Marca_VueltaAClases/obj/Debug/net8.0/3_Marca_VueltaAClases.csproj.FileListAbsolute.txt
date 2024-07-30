@@ -1,0 +1,14 @@
+C:\Users\Johanna\Desktop\tps\3_Marca_VueltaAClases\3_Marca_VueltaAClases\bin\Debug\net8.0\3_Marca_VueltaAClases.exe
+C:\Users\Johanna\Desktop\tps\3_Marca_VueltaAClases\3_Marca_VueltaAClases\bin\Debug\net8.0\3_Marca_VueltaAClases.deps.json
+C:\Users\Johanna\Desktop\tps\3_Marca_VueltaAClases\3_Marca_VueltaAClases\bin\Debug\net8.0\3_Marca_VueltaAClases.runtimeconfig.json
+C:\Users\Johanna\Desktop\tps\3_Marca_VueltaAClases\3_Marca_VueltaAClases\bin\Debug\net8.0\3_Marca_VueltaAClases.dll
+C:\Users\Johanna\Desktop\tps\3_Marca_VueltaAClases\3_Marca_VueltaAClases\bin\Debug\net8.0\3_Marca_VueltaAClases.pdb
+C:\Users\Johanna\Desktop\tps\3_Marca_VueltaAClases\3_Marca_VueltaAClases\obj\Debug\net8.0\3_Marca_VueltaAClases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Johanna\Desktop\tps\3_Marca_VueltaAClases\3_Marca_VueltaAClases\obj\Debug\net8.0\3_Marca_VueltaAClases.AssemblyInfoInputs.cache
+C:\Users\Johanna\Desktop\tps\3_Marca_VueltaAClases\3_Marca_VueltaAClases\obj\Debug\net8.0\3_Marca_VueltaAClases.AssemblyInfo.cs
+C:\Users\Johanna\Desktop\tps\3_Marca_VueltaAClases\3_Marca_VueltaAClases\obj\Debug\net8.0\3_Marca_VueltaAClases.csproj.CoreCompileInputs.cache
+C:\Users\Johanna\Desktop\tps\3_Marca_VueltaAClases\3_Marca_VueltaAClases\obj\Debug\net8.0\3_Marca_VueltaAClases.dll
+C:\Users\Johanna\Desktop\tps\3_Marca_VueltaAClases\3_Marca_VueltaAClases\obj\Debug\net8.0\refint\3_Marca_VueltaAClases.dll
+C:\Users\Johanna\Desktop\tps\3_Marca_VueltaAClases\3_Marca_VueltaAClases\obj\Debug\net8.0\3_Marca_VueltaAClases.pdb
+C:\Users\Johanna\Desktop\tps\3_Marca_VueltaAClases\3_Marca_VueltaAClases\obj\Debug\net8.0\3_Marca_VueltaAClases.genruntimeconfig.cache
+C:\Users\Johanna\Desktop\tps\3_Marca_VueltaAClases\3_Marca_VueltaAClases\obj\Debug\net8.0\ref\3_Marca_VueltaAClases.dll
