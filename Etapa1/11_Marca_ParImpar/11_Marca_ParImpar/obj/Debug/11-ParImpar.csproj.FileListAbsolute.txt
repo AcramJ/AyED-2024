@@ -1,0 +1,6 @@
+C:\Users\alumno.ET37\Desktop\Joha\Etapa1\11-ParImpar\11-ParImpar\bin\Debug\11-ParImpar.exe.config
+C:\Users\alumno.ET37\Desktop\Joha\Etapa1\11-ParImpar\11-ParImpar\bin\Debug\11-ParImpar.exe
+C:\Users\alumno.ET37\Desktop\Joha\Etapa1\11-ParImpar\11-ParImpar\bin\Debug\11-ParImpar.pdb
+C:\Users\alumno.ET37\Desktop\Joha\Etapa1\11-ParImpar\11-ParImpar\obj\Debug\11-ParImpar.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Desktop\Joha\Etapa1\11-ParImpar\11-ParImpar\obj\Debug\11-ParImpar.exe
+C:\Users\alumno.ET37\Desktop\Joha\Etapa1\11-ParImpar\11-ParImpar\obj\Debug\11-ParImpar.pdb
