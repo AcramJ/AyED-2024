@@ -1,0 +1,6 @@
+C:\Users\alumno.ET37\Desktop\Etapa3\1_Marca_SistemaDeConversiones\1_Marca_SistemaDeConversiones\bin\Debug\1_Marca_SistemaDeConversiones.exe.config
+C:\Users\alumno.ET37\Desktop\Etapa3\1_Marca_SistemaDeConversiones\1_Marca_SistemaDeConversiones\bin\Debug\1_Marca_SistemaDeConversiones.exe
+C:\Users\alumno.ET37\Desktop\Etapa3\1_Marca_SistemaDeConversiones\1_Marca_SistemaDeConversiones\bin\Debug\1_Marca_SistemaDeConversiones.pdb
+C:\Users\alumno.ET37\Desktop\Etapa3\1_Marca_SistemaDeConversiones\1_Marca_SistemaDeConversiones\obj\Debug\1_Marca_SistemaDeConversiones.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Desktop\Etapa3\1_Marca_SistemaDeConversiones\1_Marca_SistemaDeConversiones\obj\Debug\1_Marca_SistemaDeConversiones.exe
+C:\Users\alumno.ET37\Desktop\Etapa3\1_Marca_SistemaDeConversiones\1_Marca_SistemaDeConversiones\obj\Debug\1_Marca_SistemaDeConversiones.pdb
