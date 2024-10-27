@@ -1,0 +1,6 @@
+C:\Users\alumno.ET37\Desktop\Joha\Etapa1\19 - HastaN\19 - HastaN\bin\Debug\19 - HastaN.exe.config
+C:\Users\alumno.ET37\Desktop\Joha\Etapa1\19 - HastaN\19 - HastaN\bin\Debug\19 - HastaN.exe
+C:\Users\alumno.ET37\Desktop\Joha\Etapa1\19 - HastaN\19 - HastaN\bin\Debug\19 - HastaN.pdb
+C:\Users\alumno.ET37\Desktop\Joha\Etapa1\19 - HastaN\19 - HastaN\obj\Debug\19 - HastaN.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Desktop\Joha\Etapa1\19 - HastaN\19 - HastaN\obj\Debug\19 - HastaN.exe
+C:\Users\alumno.ET37\Desktop\Joha\Etapa1\19 - HastaN\19 - HastaN\obj\Debug\19 - HastaN.pdb

@@ -1,0 +1,6 @@
+C:\Users\alumno.ET37\Desktop\Joha\Etapa1\18 - HastaQueSI\18 - HastaQueSI\bin\Debug\18 - HastaQueSI.exe.config
+C:\Users\alumno.ET37\Desktop\Joha\Etapa1\18 - HastaQueSI\18 - HastaQueSI\bin\Debug\18 - HastaQueSI.exe
+C:\Users\alumno.ET37\Desktop\Joha\Etapa1\18 - HastaQueSI\18 - HastaQueSI\bin\Debug\18 - HastaQueSI.pdb
+C:\Users\alumno.ET37\Desktop\Joha\Etapa1\18 - HastaQueSI\18 - HastaQueSI\obj\Debug\18 - HastaQueSI.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Desktop\Joha\Etapa1\18 - HastaQueSI\18 - HastaQueSI\obj\Debug\18 - HastaQueSI.exe
+C:\Users\alumno.ET37\Desktop\Joha\Etapa1\18 - HastaQueSI\18 - HastaQueSI\obj\Debug\18 - HastaQueSI.pdb
