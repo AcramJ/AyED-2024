@@ -1,0 +1,6 @@
+C:\Users\alumno.ET37\Desktop\Joha\Etapa1\13-DiezVeces\13-DiezVeces\bin\Debug\13-DiezVeces.exe.config
+C:\Users\alumno.ET37\Desktop\Joha\Etapa1\13-DiezVeces\13-DiezVeces\bin\Debug\13-DiezVeces.exe
+C:\Users\alumno.ET37\Desktop\Joha\Etapa1\13-DiezVeces\13-DiezVeces\bin\Debug\13-DiezVeces.pdb
+C:\Users\alumno.ET37\Desktop\Joha\Etapa1\13-DiezVeces\13-DiezVeces\obj\Debug\13-DiezVeces.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Desktop\Joha\Etapa1\13-DiezVeces\13-DiezVeces\obj\Debug\13-DiezVeces.exe
+C:\Users\alumno.ET37\Desktop\Joha\Etapa1\13-DiezVeces\13-DiezVeces\obj\Debug\13-DiezVeces.pdb

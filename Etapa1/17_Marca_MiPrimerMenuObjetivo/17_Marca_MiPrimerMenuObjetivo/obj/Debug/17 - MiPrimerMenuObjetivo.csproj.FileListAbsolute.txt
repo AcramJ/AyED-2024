@@ -1,0 +1,6 @@
+C:\Users\alumno.ET37\Desktop\Joha\Etapa1\17 - MiPrimerMenuObjetivo\17 - MiPrimerMenuObjetivo\bin\Debug\17 - MiPrimerMenuObjetivo.exe.config
+C:\Users\alumno.ET37\Desktop\Joha\Etapa1\17 - MiPrimerMenuObjetivo\17 - MiPrimerMenuObjetivo\obj\Debug\17 - MiPrimerMenuObjetivo.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Desktop\Joha\Etapa1\17 - MiPrimerMenuObjetivo\17 - MiPrimerMenuObjetivo\bin\Debug\17 - MiPrimerMenuObjetivo.exe
+C:\Users\alumno.ET37\Desktop\Joha\Etapa1\17 - MiPrimerMenuObjetivo\17 - MiPrimerMenuObjetivo\bin\Debug\17 - MiPrimerMenuObjetivo.pdb
+C:\Users\alumno.ET37\Desktop\Joha\Etapa1\17 - MiPrimerMenuObjetivo\17 - MiPrimerMenuObjetivo\obj\Debug\17 - MiPrimerMenuObjetivo.exe
+C:\Users\alumno.ET37\Desktop\Joha\Etapa1\17 - MiPrimerMenuObjetivo\17 - MiPrimerMenuObjetivo\obj\Debug\17 - MiPrimerMenuObjetivo.pdb
