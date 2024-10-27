@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "0_Marca_CalculadoraBasica/1.0.0": {
+        "runtime": {
+          "0_Marca_CalculadoraBasica.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "0_Marca_CalculadoraBasica/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

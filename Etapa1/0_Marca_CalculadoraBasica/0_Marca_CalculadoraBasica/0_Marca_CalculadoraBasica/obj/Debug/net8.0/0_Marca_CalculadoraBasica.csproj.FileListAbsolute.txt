@@ -1,0 +1,14 @@
+C:\Users\Johanna\Desktop\0_Marca_CalculadoraBasica\0_Marca_CalculadoraBasica\0_Marca_CalculadoraBasica\bin\Debug\net8.0\0_Marca_CalculadoraBasica.exe
+C:\Users\Johanna\Desktop\0_Marca_CalculadoraBasica\0_Marca_CalculadoraBasica\0_Marca_CalculadoraBasica\bin\Debug\net8.0\0_Marca_CalculadoraBasica.deps.json
+C:\Users\Johanna\Desktop\0_Marca_CalculadoraBasica\0_Marca_CalculadoraBasica\0_Marca_CalculadoraBasica\bin\Debug\net8.0\0_Marca_CalculadoraBasica.runtimeconfig.json
+C:\Users\Johanna\Desktop\0_Marca_CalculadoraBasica\0_Marca_CalculadoraBasica\0_Marca_CalculadoraBasica\bin\Debug\net8.0\0_Marca_CalculadoraBasica.dll
+C:\Users\Johanna\Desktop\0_Marca_CalculadoraBasica\0_Marca_CalculadoraBasica\0_Marca_CalculadoraBasica\bin\Debug\net8.0\0_Marca_CalculadoraBasica.pdb
+C:\Users\Johanna\Desktop\0_Marca_CalculadoraBasica\0_Marca_CalculadoraBasica\0_Marca_CalculadoraBasica\obj\Debug\net8.0\0_Marca_CalculadoraBasica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Johanna\Desktop\0_Marca_CalculadoraBasica\0_Marca_CalculadoraBasica\0_Marca_CalculadoraBasica\obj\Debug\net8.0\0_Marca_CalculadoraBasica.AssemblyInfoInputs.cache
+C:\Users\Johanna\Desktop\0_Marca_CalculadoraBasica\0_Marca_CalculadoraBasica\0_Marca_CalculadoraBasica\obj\Debug\net8.0\0_Marca_CalculadoraBasica.AssemblyInfo.cs
+C:\Users\Johanna\Desktop\0_Marca_CalculadoraBasica\0_Marca_CalculadoraBasica\0_Marca_CalculadoraBasica\obj\Debug\net8.0\0_Marca_CalculadoraBasica.csproj.CoreCompileInputs.cache
+C:\Users\Johanna\Desktop\0_Marca_CalculadoraBasica\0_Marca_CalculadoraBasica\0_Marca_CalculadoraBasica\obj\Debug\net8.0\0_Marca_CalculadoraBasica.dll
+C:\Users\Johanna\Desktop\0_Marca_CalculadoraBasica\0_Marca_CalculadoraBasica\0_Marca_CalculadoraBasica\obj\Debug\net8.0\refint\0_Marca_CalculadoraBasica.dll
+C:\Users\Johanna\Desktop\0_Marca_CalculadoraBasica\0_Marca_CalculadoraBasica\0_Marca_CalculadoraBasica\obj\Debug\net8.0\0_Marca_CalculadoraBasica.pdb
+C:\Users\Johanna\Desktop\0_Marca_CalculadoraBasica\0_Marca_CalculadoraBasica\0_Marca_CalculadoraBasica\obj\Debug\net8.0\0_Marca_CalculadoraBasica.genruntimeconfig.cache
+C:\Users\Johanna\Desktop\0_Marca_CalculadoraBasica\0_Marca_CalculadoraBasica\0_Marca_CalculadoraBasica\obj\Debug\net8.0\ref\0_Marca_CalculadoraBasica.dll
