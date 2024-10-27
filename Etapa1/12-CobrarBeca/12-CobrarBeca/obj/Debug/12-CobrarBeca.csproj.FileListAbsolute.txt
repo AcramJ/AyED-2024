@@ -1,6 +1,0 @@
-C:\Users\alumno.ET37\Desktop\Joha\Etapa1\12-CobrarBeca\12-CobrarBeca\bin\Debug\12-CobrarBeca.exe.config
-C:\Users\alumno.ET37\Desktop\Joha\Etapa1\12-CobrarBeca\12-CobrarBeca\bin\Debug\12-CobrarBeca.exe
-C:\Users\alumno.ET37\Desktop\Joha\Etapa1\12-CobrarBeca\12-CobrarBeca\bin\Debug\12-CobrarBeca.pdb
-C:\Users\alumno.ET37\Desktop\Joha\Etapa1\12-CobrarBeca\12-CobrarBeca\obj\Debug\12-CobrarBeca.csprojResolveAssemblyReference.cache
-C:\Users\alumno.ET37\Desktop\Joha\Etapa1\12-CobrarBeca\12-CobrarBeca\obj\Debug\12-CobrarBeca.exe
-C:\Users\alumno.ET37\Desktop\Joha\Etapa1\12-CobrarBeca\12-CobrarBeca\obj\Debug\12-CobrarBeca.pdb

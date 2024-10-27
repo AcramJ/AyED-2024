@@ -1,6 +1,0 @@
-C:\Users\alumno.ET37\Desktop\Joha\Etapa1\3 - DimensionesDeEsfera\3 - DimensionesDeEsfera\bin\Debug\3 - DimensionesDeEsfera.exe.config
-C:\Users\alumno.ET37\Desktop\Joha\Etapa1\3 - DimensionesDeEsfera\3 - DimensionesDeEsfera\bin\Debug\3 - DimensionesDeEsfera.exe
-C:\Users\alumno.ET37\Desktop\Joha\Etapa1\3 - DimensionesDeEsfera\3 - DimensionesDeEsfera\bin\Debug\3 - DimensionesDeEsfera.pdb
-C:\Users\alumno.ET37\Desktop\Joha\Etapa1\3 - DimensionesDeEsfera\3 - DimensionesDeEsfera\obj\Debug\3 - DimensionesDeEsfera.csprojResolveAssemblyReference.cache
-C:\Users\alumno.ET37\Desktop\Joha\Etapa1\3 - DimensionesDeEsfera\3 - DimensionesDeEsfera\obj\Debug\3 - DimensionesDeEsfera.exe
-C:\Users\alumno.ET37\Desktop\Joha\Etapa1\3 - DimensionesDeEsfera\3 - DimensionesDeEsfera\obj\Debug\3 - DimensionesDeEsfera.pdb

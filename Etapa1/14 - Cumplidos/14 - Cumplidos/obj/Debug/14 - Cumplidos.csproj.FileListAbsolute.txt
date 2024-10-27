@@ -1,6 +1,0 @@
-C:\Users\alumno.ET37\Desktop\Joha\Etapa1\14 - Cumplidos\14 - Cumplidos\bin\Debug\14 - Cumplidos.exe.config
-C:\Users\alumno.ET37\Desktop\Joha\Etapa1\14 - Cumplidos\14 - Cumplidos\bin\Debug\14 - Cumplidos.exe
-C:\Users\alumno.ET37\Desktop\Joha\Etapa1\14 - Cumplidos\14 - Cumplidos\bin\Debug\14 - Cumplidos.pdb
-C:\Users\alumno.ET37\Desktop\Joha\Etapa1\14 - Cumplidos\14 - Cumplidos\obj\Debug\14 - Cumplidos.csprojResolveAssemblyReference.cache
-C:\Users\alumno.ET37\Desktop\Joha\Etapa1\14 - Cumplidos\14 - Cumplidos\obj\Debug\14 - Cumplidos.exe
-C:\Users\alumno.ET37\Desktop\Joha\Etapa1\14 - Cumplidos\14 - Cumplidos\obj\Debug\14 - Cumplidos.pdb
