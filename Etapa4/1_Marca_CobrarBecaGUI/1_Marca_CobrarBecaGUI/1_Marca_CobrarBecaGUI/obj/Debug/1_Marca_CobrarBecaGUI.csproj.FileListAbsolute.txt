@@ -1,0 +1,18 @@
+C:\Users\alumno.ET37\Desktop\TPS Programación\1_Marca_CobrarBecaGUI\1_Marca_CobrarBecaGUI\1_Marca_CobrarBecaGUI\bin\Debug\1_Marca_CobrarBecaGUI.exe.config
+C:\Users\alumno.ET37\Desktop\TPS Programación\1_Marca_CobrarBecaGUI\1_Marca_CobrarBecaGUI\1_Marca_CobrarBecaGUI\bin\Debug\1_Marca_CobrarBecaGUI.exe
+C:\Users\alumno.ET37\Desktop\TPS Programación\1_Marca_CobrarBecaGUI\1_Marca_CobrarBecaGUI\1_Marca_CobrarBecaGUI\bin\Debug\1_Marca_CobrarBecaGUI.pdb
+C:\Users\alumno.ET37\Desktop\TPS Programación\1_Marca_CobrarBecaGUI\1_Marca_CobrarBecaGUI\1_Marca_CobrarBecaGUI\obj\Debug\1_Marca_CobrarBecaGUI.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Desktop\TPS Programación\1_Marca_CobrarBecaGUI\1_Marca_CobrarBecaGUI\1_Marca_CobrarBecaGUI\obj\Debug\_1_Marca_CobrarBecaGUI.Form1.resources
+C:\Users\alumno.ET37\Desktop\TPS Programación\1_Marca_CobrarBecaGUI\1_Marca_CobrarBecaGUI\1_Marca_CobrarBecaGUI\obj\Debug\_1_Marca_CobrarBecaGUI.Properties.Resources.resources
+C:\Users\alumno.ET37\Desktop\TPS Programación\1_Marca_CobrarBecaGUI\1_Marca_CobrarBecaGUI\1_Marca_CobrarBecaGUI\obj\Debug\1_Marca_CobrarBecaGUI.csproj.GenerateResource.Cache
+C:\Users\alumno.ET37\Desktop\TPS Programación\1_Marca_CobrarBecaGUI\1_Marca_CobrarBecaGUI\1_Marca_CobrarBecaGUI\obj\Debug\1_Marca_CobrarBecaGUI.exe
+C:\Users\alumno.ET37\Desktop\TPS Programación\1_Marca_CobrarBecaGUI\1_Marca_CobrarBecaGUI\1_Marca_CobrarBecaGUI\obj\Debug\1_Marca_CobrarBecaGUI.pdb
+C:\Users\alumno.ET37\Desktop\1_Marca_CobrarBecaGUI\1_Marca_CobrarBecaGUI\1_Marca_CobrarBecaGUI\bin\Debug\1_Marca_CobrarBecaGUI.exe.config
+C:\Users\alumno.ET37\Desktop\1_Marca_CobrarBecaGUI\1_Marca_CobrarBecaGUI\1_Marca_CobrarBecaGUI\obj\Debug\1_Marca_CobrarBecaGUI.exe
+C:\Users\alumno.ET37\Desktop\1_Marca_CobrarBecaGUI\1_Marca_CobrarBecaGUI\1_Marca_CobrarBecaGUI\obj\Debug\1_Marca_CobrarBecaGUI.pdb
+C:\Users\alumno.ET37\Desktop\1_Marca_CobrarBecaGUI\1_Marca_CobrarBecaGUI\1_Marca_CobrarBecaGUI\bin\Debug\1_Marca_CobrarBecaGUI.exe
+C:\Users\alumno.ET37\Desktop\1_Marca_CobrarBecaGUI\1_Marca_CobrarBecaGUI\1_Marca_CobrarBecaGUI\bin\Debug\1_Marca_CobrarBecaGUI.pdb
+C:\Users\alumno.ET37\Desktop\1_Marca_CobrarBecaGUI\1_Marca_CobrarBecaGUI\1_Marca_CobrarBecaGUI\obj\Debug\1_Marca_CobrarBecaGUI.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Desktop\1_Marca_CobrarBecaGUI\1_Marca_CobrarBecaGUI\1_Marca_CobrarBecaGUI\obj\Debug\_1_Marca_CobrarBecaGUI.Form1.resources
+C:\Users\alumno.ET37\Desktop\1_Marca_CobrarBecaGUI\1_Marca_CobrarBecaGUI\1_Marca_CobrarBecaGUI\obj\Debug\_1_Marca_CobrarBecaGUI.Properties.Resources.resources
+C:\Users\alumno.ET37\Desktop\1_Marca_CobrarBecaGUI\1_Marca_CobrarBecaGUI\1_Marca_CobrarBecaGUI\obj\Debug\1_Marca_CobrarBecaGUI.csproj.GenerateResource.Cache
